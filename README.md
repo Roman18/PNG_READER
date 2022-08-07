@@ -1,6 +1,6 @@
-#PNG_READER
+# PNG_READER
 
-##A simple app to read a png file and show info about it.
+## A simple app to read a png file and show info about it.
 
 ```console
 .\main.exe <some_file.png>
